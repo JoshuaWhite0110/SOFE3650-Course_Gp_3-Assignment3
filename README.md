@@ -1,8 +1,12 @@
 ﻿# SOFE3650-Course_Gp_3-Assignment3
  
  # Table of Contents
-1. [**Test**](/src)
+1. [**Test Method One**](/srcMethod1)
 
-3. [**Comparative Statements and Analysis**](/Comparsion.txt)
+2. [**Test Method Two**](/srcMethod2)
+
+3. [**Test Method Three**](/srcMethod3)
+
+4. [**Comparative Statements and Analysis**](/Comparsion.txt)
    
-4. [**Screen Dumps**](add link)
+5. [**Screen Dumps**](add link)
