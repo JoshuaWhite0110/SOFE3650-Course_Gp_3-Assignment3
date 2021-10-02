@@ -9,4 +9,4 @@
 
 4. [**Comparative Statements and Analysis**](/Comparsion.txt)
    
-5. [**Screen Dumps**](add link)
+5. [**Screen Dumps**](/images)
