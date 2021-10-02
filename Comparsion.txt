@@ -1,0 +1,20 @@
+Method 1: Standard implementation 
+Advantages:
+  type here.
+disadvantages:
+  type here.
+  
+Method 2: TicketPrinter and Display inherit view interface. 
+Advantages:
+  type here.
+disadvantages:
+  type here.
+  
+Method 3: TicketPrinter and Display act as observers of CashRegister.
+Advantages:
+  type here.
+disadvantages:
+  type here.
+  
+ Conclusion:
+  type here.
