@@ -10,6 +10,6 @@
 4. [**Comparative Statements and Analysis**](/Comparsion.txt)
    
 5. [**Screen Dumps**](/images)
-	1. ![Method One Screen Dumps](/images/method1/)	
-	2. ![Method Two Screen Dumps](/images/method2/)	
-	3. ![Method Three Screen Dumps](/images/method3/)			
+	1. [Method One Screen Dumps](/images/method1/)	
+	2. [Method Two Screen Dumps](/images/method2/)	
+	3. [Method Three Screen Dumps](/images/method3/)			
